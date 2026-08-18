@@ -32,10 +32,10 @@ An AI/NLP-based plagiarism detection web application built using Python and Stre
 - python-docx
 - ReportLab
 
-## ⚙️ Installation
+"""## ⚙️ Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Plagiarism-Detection-System
+git clone https://github.com/harshkushwaha99/Plagiarism-Detection-System
+cd Plagiarism-Detection-System"""
